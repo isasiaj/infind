@@ -1,0 +1,10 @@
+﻿  Punto.cpp
+c:\users\isasi\desktop\mis juegos\trabajo_p1\punto.cpp(1): fatal error C1083: No se puede abrir el archivo incluir: 'Punto.h': No such file or directory
+  Casilla.cpp
+  Ficha.cpp
+  GlutTablero.cpp
+c:\users\isasi\desktop\mis juegos\trabajo_p1\src\gluttablero.cpp(2): fatal error C1083: No se puede abrir el archivo incluir: 'glut.h': No such file or directory
+  Source.cpp
+c:\users\isasi\desktop\mis juegos\trabajo_p1\src\source.cpp(3): fatal error C1083: No se puede abrir el archivo incluir: 'glut.h': No such file or directory
+  Tablero.cpp
+  Generando código...
