@@ -120,7 +120,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="lib\glut.h" />
-    <ClInclude Include="src\Casilla.h" />
     <ClInclude Include="src\Ficha.h" />
     <ClInclude Include="src\FichaGL.h" />
     <ClInclude Include="src\GlutTablero.h" />
@@ -131,7 +130,6 @@
     <None Include="glut32.dll" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Casilla.cpp" />
     <ClCompile Include="src\Ficha.cpp" />
     <ClCompile Include="src\FichaGL.cpp" />
     <ClCompile Include="src\GlutTablero.cpp" />

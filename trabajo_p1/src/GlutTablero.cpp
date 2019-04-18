@@ -63,8 +63,8 @@ void GlutTablero::Draw() {
 	{
 		for (int j = 0; j < N; j++)
 		{
-			if(NULL!= tablero_gl->GetTab()[i][j].GetFicha())
-			FichaGL::Dibuja(tablero_gl->GetTab()[i][j].GetFicha());
+			if(NULL!= tablero_gl->GetTab()[i][j])
+			FichaGL::Dibuja(tablero_gl->GetTab()[i][j]);
 		}
 	}
 
